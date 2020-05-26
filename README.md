@@ -55,14 +55,11 @@ After you all set click on "Create"
 
 ![fillnotebook](./images/fillnotebook.png)
 
+It will take few seconds to upload the Notebook, once its done you can now follow the guide, if you want to run the cells 1 by 1 please clear the output data for your convenient.
 
+![clearcells](./images/clearcells.png)
 
-
-
-
-
-## Deploy Springboot app
-
+Now you can run the cells and see the results !
 
 #### References 
 https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
