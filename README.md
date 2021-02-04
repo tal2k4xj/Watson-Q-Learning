@@ -34,12 +34,9 @@ To attach a storage we will create Object Storage service, just scroll down and 
 
 ![createnewstorage](./images/createnewstorage.png)
 
-And select confirm.
+Now your storage is ready to use,go back to previous page and click "Refresh" to see it and click "Create"
 
-![confirmstorage](./images/confirmstorage.png)
-
-Now your storage is ready to use, click "Refresh" to see it and click "Create"
-
+![refreshobjstorage](./images/refreshobjstorage.png)
 ![refreshandcreate](./images/refreshandcreate.png)
 
 Your project is ready ! now lets add some assets, click on "Add to project".
